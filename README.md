@@ -2,7 +2,7 @@
 
 an autoclicker with some randomness
 
-cd to the "store" directoru and run the autoclicker with the following command
+cd to the "store" directory and run the autoclicker with the following command
 
 ```java -jar AutoClicker.jar```
 
